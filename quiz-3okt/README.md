@@ -41,4 +41,8 @@ Jawaban Quiz
 
 ## 3. Make an operator python programming with generate input int from user
 
+   <img src="third-question/step-1.png" />
+
+[source code](third-question/third.py)
+
 ## 4. Make a matrix 2x2 with python programming

@@ -16,7 +16,7 @@ Quiz - 3 Oktober 2022
 
 Jawaban Quiz
 
-## 1. How to run python with your tools
+## 1. How to run python with your tools | [source code](first-question/run.py)
 
 - Python yang saya gunakan adalah versi 3.10.6 dan di install ke dalam Mac OS
   menggunakan Homebrew.
@@ -31,18 +31,24 @@ Jawaban Quiz
 
    <img src="first-question/step-2.png" />
 
-[source code](first-question/run.py)
-
-## 2. Make a simple python program with output your name and nim
+## 2. Make a simple python program with output your name and nim | [source code](second-question/second.py)
 
    <img src="second-question/step-1.png" />
 
-[source code](second-question/second.py)
-
-## 3. Make an operator python programming with generate input int from user
+## 3. Make an operator python programming with generate input int from user | [source code](third-question/third.py)
 
    <img src="third-question/step-1.png" />
 
-[source code](third-question/third.py)
-
 ## 4. Make a matrix 2x2 with python programming
+
+- Print matrix | [source code](fourth-question/matrix.py)
+
+   <img src="fourth-question/matrix.png" />
+
+- Penjumlahan matrix | [source code](fourth-question/matrix-add.py)
+
+   <img src="fourth-question/matrix-add.png" />
+
+- Pengurangan matrix | [source code](fourth-question/matrix-minus.py)
+
+   <img src="fourth-question/matrix-minus.png" />

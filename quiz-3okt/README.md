@@ -1,4 +1,4 @@
-Soal Quiz - 3 Oktober 2022
+Quiz - 3 Oktober 2022
 
 1. How to run python with your tools (full with capture)
    [answer](#1-how-to-run-python-with-your-tools)

@@ -18,10 +18,18 @@ Jawaban Quiz
 
 ## 1. How to run python with your tools
 
-- Setelah membuka repository dan membuat file .py, ubah direktori di terminal menuju
-  lokasi file <img src="./first-question/step-1.png" />
+- Python yang saya gunakan adalah versi 3.10.6 dan di install ke dalam Mac OS
+  menggunakan Homebrew.
+
+- Setelah membuka folder repository dan membuat file .py, ubah direktori di terminal
+  menuju direktori file yang akan dijalankan
+
+   <img src="./first-question/step-1.png" />
+
 - Program .py dijalankan dengan command `python3 [nama file]`. Contoh:
-  `python3 run.py` <img src="./first-question/step-2.png" />
+  `python3 run.py`
+
+   <img src="./first-question/step-2.png" />
 
 ## 2. Make a simple python program with output your name and nim
 

@@ -24,14 +24,20 @@ Jawaban Quiz
 - Setelah membuka folder repository dan membuat file .py, ubah direktori di terminal
   menuju direktori file yang akan dijalankan
 
-   <img src="./first-question/step-1.png" />
+   <img src="first-question/step-1.png" />
 
 - Program .py dijalankan dengan command `python3 [nama file]`. Contoh:
   `python3 run.py`
 
-   <img src="./first-question/step-2.png" />
+   <img src="first-question/step-2.png" />
+
+[source code](first-question/run.py)
 
 ## 2. Make a simple python program with output your name and nim
+
+   <img src="second-question/step-1.png" />
+
+[source code](second-question/second.py)
 
 ## 3. Make an operator python programming with generate input int from user
 

@@ -52,3 +52,6 @@ Jawaban Quiz
 - Pengurangan matrix | [source code](fourth-question/matrix-minus.py)
 
    <img src="fourth-question/matrix-minus.png" />
+
+Referensi matriks dari tugas Matematika Diskrit
+[source](https://colab.research.google.com/drive/1l5quLMkQlSV_dmI4PlmyN7PKtxuNPXme?usp=sharing)
